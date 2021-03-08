@@ -1,0 +1,24 @@
+{
+    "data": [
+       {
+          "label": "проснуться",
+          "important": true,
+          "like": false,
+          "id": 1
+       },
+       {
+          "label": "позавтракать",
+          "important": false,
+          "like": true,
+          "id": 2
+       },
+       {
+          "label": "принять душ",
+          "important": true,
+          "like": false,
+          "id": 3
+       }
+    ],
+    "term": "",
+    "filter": "all"
+ }
